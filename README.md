@@ -1,1 +1,2 @@
 # JavaScript
+Author - Amay Jadhav
